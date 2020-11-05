@@ -5,8 +5,7 @@ from bs4 import BeautifulSoup
 PAGES = 3
 BASE_URL = 'https://www.gcores.com'
 RADIO_LIST_URL = "https://www.gcores.com/radios?page={}"
-LIVE_STREAM_TEMPLATE = """
-SiiNunit
+LIVE_STREAM_TEMPLATE = """SiiNunit
 {
 live_stream_def: gcores {
     %s
@@ -41,4 +40,3 @@ def generate_gadio_list():
             count += 1
     live_stream_str = f"stream_data: {count}\n" + live_stream_str
     return LIVE_STREAM_TEMPLATE % live_stream_str
-    
