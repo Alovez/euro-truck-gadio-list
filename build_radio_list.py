@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-PAGES = 2
+PAGES = 3
 BASE_URL = 'https://www.gcores.com'
 RADIO_LIST_URL = "https://www.gcores.com/radios?page={}"
 LIVE_STREAM_TEMPLATE = """SiiNunit
