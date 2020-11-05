@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def: gcores {
-    stream_data: 36
+    stream_data: 24
 stream_data[0]: "https://alioss.gcores.com/uploads/audio/56b5587f-2cc5-4aec-9494-df9061d2cc05.mp3|为了迈入次时代，我该挑选什么样的显示设备？|Gadio News|CN|0|0"
 stream_data[1]: "https://alioss.gcores.com/uploads/audio/6c113dce-891e-4397-8234-6a17cdbf0aff.mp3|探秘万代模型工厂，说说几个主力系列拼装。欢迎来到万代的世界（下）|玩出花儿来|CN|0|0"
 stream_data[2]: "https://alioss.gcores.com/uploads/audio/8841dd2e-d0e1-406f-abe5-3a2e17c404cb.mp3|装电脑是等一等还是心一狠？ 天天ACG 10.30|资讯|CN|0|0"
@@ -26,18 +26,6 @@ stream_data[20]: "https://alioss.gcores.com/uploads/audio/fdced7ee-b8eb-4aa8-993
 stream_data[21]: "https://alioss.gcores.com/uploads/audio/5d67105d-59f1-449c-b3ad-c632d802f500.mp3|个人猜测！GadioNews10.10|Gadio News|CN|0|0"
 stream_data[22]: "https://alioss.gcores.com/uploads/audio/9f6b94b0-7501-47d7-989e-511b496e5bda.mp3|夕妖晚谣跑团故事 , 《午夜连环盗窃案》：第一集 商店街的神秘骚乱|玩出花儿来|CN|0|0"
 stream_data[23]: "https://alioss.gcores.com/uploads/audio/df3550bf-a37f-4a57-9f30-be6f6e0623d1.mp3|《信条》的热度可能过去了，但它的音乐依旧值得好好聊聊|有感而发|CN|0|0"
-stream_data[24]: "https://alioss.gcores.com/uploads/audio/d8b6d60f-9df7-4052-a57a-d1e95049db88.mp3|从亚瑟王传奇的多个变种到给海豹梳头的神圣性：《神话之城》（下期）|故事烩|CN|0|0"
-stream_data[25]: "https://alioss.gcores.com/uploads/audio/06a613ff-0f48-4840-a633-822392e8defa.mp3|美国的摩登时代：盖楼修路开汽车，禁酒令与黑手党|有感而发|CN|0|0"
-stream_data[26]: "https://alioss.gcores.com/uploads/audio/7a81d12e-624e-4e46-9466-c3d79d230156.mp3|作为飞行员，从北京到纽约起飞前都需要做哪些准备？|Gadio Pro|CN|0|0"
-stream_data[27]: "https://alioss.gcores.com/uploads/audio/cecd30b1-a2a6-4776-b752-d66ab6cee030.mp3|出门、打游戏还是补剧，十一怎么过？天天ACG 10.03|安利大帝|CN|0|0"
-stream_data[28]: "https://alioss.gcores.com/uploads/audio/66cf8f3d-1942-4a8b-bbec-fa6050b4d849.mp3|爱看剧的人总是嘴上说没什么可看的，实际还是看了一堆|安利大帝|CN|0|0"
-stream_data[29]: "https://alioss.gcores.com/uploads/audio/322af381-f144-4a2c-a1bd-cbc649b0a38c.mp3|啥也不干，只玩游戏：十一游戏玩不停，叉基批和二零八零|安利大帝|CN|0|0"
-stream_data[30]: "https://alioss.gcores.com/uploads/audio/7e4fcc18-6365-42e3-b3c8-c843b071bd30.mp3|战锤40K星际战士战团故事 圣血天使 卷二 ：天使之伤|知识挖掘机|CN|0|0"
-stream_data[31]: "https://alioss.gcores.com/uploads/audio/ca766ced-7d29-46fd-970f-057d4c681a65.mp3|分享几本最近看的新书，有吃有喝有盖面，核市奇谭Vol.21|官方活动|CN|0|0"
-stream_data[32]: "https://alioss.gcores.com/uploads/audio/92e19936-6c31-4841-a415-e6932a72d110.mp3|钞能力！GadioNews09.26|资讯|CN|0|0"
-stream_data[33]: "https://alioss.gcores.com/uploads/audio/00637b7e-8b5c-4aca-b5aa-c29e314da5f6.mp3|番外篇 回顾旅程（模组剧透注意）｜ TRPG故事《傻【哔】太多，摇滚太少》|Gadio Life|CN|0|0"
-stream_data[34]: "https://alioss.gcores.com/uploads/audio/61dbe9f3-df37-486a-99dc-2fc91ba28077.mp3|欢迎来到万代的世界（上）：万代的历史与产品的现状|资讯|CN|0|0"
-stream_data[35]: "https://alioss.gcores.com/uploads/audio/833bfd22-f16c-4437-88c8-18b90860dc11.mp3|为你介绍一下北京国际游戏创新大会，以及市政府对游戏行业的支持政策|知识挖掘机|CN|0|0"
 
 }
 }

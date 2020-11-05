@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-PAGES = 3
+PAGES = 2
 BASE_URL = 'https://www.gcores.com'
 RADIO_LIST_URL = "https://www.gcores.com/radios?page={}"
 LIVE_STREAM_TEMPLATE = """SiiNunit
@@ -39,4 +39,4 @@ def generate_gadio_list():
             live_stream_str += RECORD_TEMPLATE.format(count=count, url=mp3, title=title, category=category)
             count += 1
     live_stream_str = f"stream_data: {count}\n" + live_stream_str
-    return LIVE_STREAM_TEMPLATE % live_stream_str
+    return LIVE_STREAM_TEMPLATE % live_stream_str    
