@@ -1,31 +1,7 @@
 SiiNunit
 {
 live_stream_def: gcores {
-    stream_data: 24
-stream_data[0]: "https://alioss.gcores.com/uploads/audio/bd13b5c5-b46c-4513-8ce4-bc3f9aeccf34.mp3|白话UFO 第一话 , 古人看到不明飞行物时除了立即写诗之外还记录了些什么？|故事烩|CN|0|0"
-stream_data[1]: "https://alioss.gcores.com/uploads/audio/aed2a88f-24af-408b-b625-db97e31025b9.mp3|到底赖谁？GadioNews05.21|Gadio News|CN|0|0"
-stream_data[2]: "https://alioss.gcores.com/uploads/audio/879288ee-1f0a-46cb-996e-ebcefb51e239.mp3|《艾尔登法环》探秘Vol.2-阴谋之夜|Gadio Story|CN|0|0"
-stream_data[3]: "https://alioss.gcores.com/uploads/audio/722888e0-20b9-43c8-b03f-0258f9e71792.mp3|摧毁一切的科幻新浪潮运动：从《零之曙光》讲起|Gadio Pro|CN|0|0"
-stream_data[4]: "https://alioss.gcores.com/uploads/audio/ccfb6f31-e644-453e-8a08-214b612949fd.mp3|机核居然没有独立游戏专题节目？我们来搞一个|创作笔记|CN|0|0"
-stream_data[5]: "https://alioss.gcores.com/uploads/audio/b875559e-c9a7-45c6-97c7-ff45f16bd5b3.mp3|何为游戏？ 三个游戏人向世界提出一个问题 CLIPS vol.7|官方活动|CN|0|0"
-stream_data[6]: "https://alioss.gcores.com/uploads/audio/c0bb0983-0877-4eb2-b057-a6ede90239bb.mp3|想象力有限，GadioNews05.14|Gadio News|CN|0|0"
-stream_data[7]: "https://alioss.gcores.com/uploads/audio/a28a2726-b0c5-466d-add2-3e79f1f501b7.mp3|怎么用这么好的纸印漫画？！读书节目核市奇谭Vol.37|Gadio Ad|CN|0|0"
-stream_data[8]: "https://alioss.gcores.com/uploads/audio/261b78ac-f5e8-438e-9fb3-b4bd3e7bd15f.mp3|与拳头汉化聊聊厄斐琉斯、皎月教派和世界观的更多构想|Gadio Early Access|CN|0|0"
-stream_data[9]: "https://alioss.gcores.com/uploads/audio/fbded9d3-9a34-4046-b656-20e9692ed77e.mp3|收手吧阿祖，外面全是快递——决胜一小时复盘|Gadio Life|CN|0|0"
-stream_data[10]: "https://alioss.gcores.com/uploads/audio/d0b8663f-0129-4afc-9031-244c24b08b1d.mp3|五月手游真不少，赶紧一起聊一聊 游戏茶话会Vol.36|有感而发|CN|0|0"
-stream_data[11]: "https://alioss.gcores.com/uploads/audio/eb09d2db-e652-4598-9959-a31f522c185f.mp3|一种基于文学性的游戏创作观 , 与《完美的一天》两位主创对谈|资讯|CN|0|0"
-stream_data[12]: "https://alioss.gcores.com/uploads/audio/c35f0a3e-cfff-4e8b-884e-dbde3caedf62.mp3|争当舅舅，GadioNews05.07|资讯|CN|0|0"
-stream_data[13]: "https://alioss.gcores.com/uploads/audio/f4567990-6020-4aa4-8a0d-b8e55405d233.mp3|五一在家没出门，躺在家里挺精神 天天ACG 5.6|Gadio News|CN|0|0"
-stream_data[14]: "https://alioss.gcores.com/uploads/audio/63af7e8e-18df-4d42-8dbf-1e2a9b744ebe.mp3|美好的一天从捯饬自己开始，机组闲聊Vol.4|Gadio Life|CN|0|0"
-stream_data[15]: "https://alioss.gcores.com/uploads/audio/e461889c-6dbc-4967-8350-72b4a480fd34.mp3|请不要随意投掷你的英雄——决胜一小时C组|Gadio Life|CN|0|0"
-stream_data[16]: "https://alioss.gcores.com/uploads/audio/45220a7d-0c5f-4321-aaf0-9cf721c75c87.mp3|你带我走吧！要不我带你走？决胜一小时-B组|Gadio Life|CN|0|0"
-stream_data[17]: "https://alioss.gcores.com/uploads/audio/8e0a9320-12ab-4f2b-9f33-c97d366dfd0d.mp3|送外卖不要轻易上高地，决胜一小时-A组|Gadio Story|CN|0|0"
-stream_data[18]: "https://alioss.gcores.com/uploads/audio/4ff03d6c-6878-4288-8930-a2a24c71d7e5.mp3|努力挽回每一个差评的三周：《纪元：变异》向死而生 CLIPS VOL.6|有感而发|CN|0|0"
-stream_data[19]: "https://alioss.gcores.com/uploads/audio/2d56a159-ed9a-4ee2-ab3d-91a9890f26c8.mp3|要求太高，GadioNews04.30|Gadio News|CN|0|0"
-stream_data[20]: "https://alioss.gcores.com/uploads/audio/a1f5215a-5ab2-40b1-a43a-c594dc6701bc.mp3|游戏玩家读《游戏玩家》，读书节目核市奇谭Vol.36|Gadio Ad|CN|0|0"
-stream_data[21]: "https://alioss.gcores.com/uploads/audio/a3802b2f-9bee-40b4-817d-85a1f8a073e3.mp3|机组五月创作活动：总而言之主题都在电台里|官方活动|CN|0|0"
-stream_data[22]: "https://alioss.gcores.com/uploads/audio/0a74fdc9-ee6c-44ae-bbd9-c52be7c546c7.mp3|动视暴雪的前世今生Vol.4-血雨腥风|资讯|CN|0|0"
-stream_data[23]: "https://alioss.gcores.com/uploads/audio/2164ffee-84e1-4349-8c5a-63afa4646fac.mp3|五年之后，再说说“网上恋爱”的那些事|有感而发|CN|0|0"
+    stream_data: 0
 
 }
 }
