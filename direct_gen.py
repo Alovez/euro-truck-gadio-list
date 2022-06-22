@@ -13,5 +13,6 @@ def get_live_stream_file_path():
 
 if __name__ == '__main__':
     with open(get_live_stream_file_path(), 'wb') as f:
-        f.write(generate_gadio_list().encode('utf-8'))
+        # f.write(generate_gadio_list().encode('utf-8'))
+        print(generate_gadio_list())
     

@@ -1,3 +1,5 @@
+import pdb
+from turtle import pd
 import requests
 from bs4 import BeautifulSoup
 
@@ -21,7 +23,8 @@ latest_radio_list = []
 def get_radio_info(radio_link):
     response = requests.get(BASE_URL + radio_link)
     soup = BeautifulSoup(response.text)
-    mp3 = soup.select('a[href*="uploads"]')[0].get('href')
+    # import pdb;pdb.set_trace()
+    mp3 = soup.select('a[href*=".mp3"]')[0].get('href')
     category = soup.select('span.original_category')[0].get_text()
     return mp3, category
 
@@ -32,7 +35,8 @@ def generate_gadio_list():
     for page in range(PAGES):
         response = requests.get(RADIO_LIST_URL.format(page + 1))
         soup = BeautifulSoup(response.text)
-        for radio in soup.select("a.am_card_content"):
+        # import pdb;pdb.set_trace()
+        for radio in soup.select('a[href*="radios/"]'):
             title = radio.get_text().replace('|', ',')
             link = radio.get('href')
             mp3, category = get_radio_info(link)
